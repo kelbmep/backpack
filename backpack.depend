@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1603563293 source:c:\users\user\desktop\backpack\main.cpp
+	<bits/stdc++.h>
+	<fstream>
+	<bitset>
+	<intrin.h>
+
